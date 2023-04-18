@@ -1,0 +1,11 @@
+C:\Users\fikra\source\repos\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe.config
+C:\Users\fikra\source\repos\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe
+C:\Users\fikra\source\repos\TuringMachine\TuringMachine\bin\Debug\TuringMachine.pdb
+C:\Users\fikra\source\repos\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.AssemblyReference.cache
+C:\Users\fikra\source\repos\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\fikra\source\repos\TuringMachine\TuringMachine\obj\Debug\TuringMachine.StartButton.resources
+C:\Users\fikra\source\repos\TuringMachine\TuringMachine\obj\Debug\TuringMachine.Properties.Resources.resources
+C:\Users\fikra\source\repos\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.GenerateResource.cache
+C:\Users\fikra\source\repos\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.CoreCompileInputs.cache
+C:\Users\fikra\source\repos\TuringMachine\TuringMachine\obj\Debug\TuringMachine.exe
+C:\Users\fikra\source\repos\TuringMachine\TuringMachine\obj\Debug\TuringMachine.pdb
